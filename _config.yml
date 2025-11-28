@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./jetsquare.png"
+  avatar           : "./images/jetsquare.png"
   name             : "Jet Lin"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "AI engineer applying for Computer Science Masters, with a focus on AI for Science and Education"
