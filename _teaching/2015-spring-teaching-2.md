@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutoring"
 permalink: /teaching/math-and-cse-tutoring
 venue: "STEM Tutoring Center at UC Merced"
-date: #2024-02
+date: 2024-02-02
 location: "Merced, CA"
 ---
 
