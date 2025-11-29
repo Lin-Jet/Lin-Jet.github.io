@@ -1,7 +1,7 @@
 ---
 title: "Math and CSE Tutor"
 collection: teaching
-type: "Tutoring"
+type: "Math and CSE Tutor"
 permalink: /teaching/math-and-cse-tutoring
 venue: "STEM Tutoring Center at UC Merced"
 date: 2024-02-02
