@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Martial Arts"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: #""
+permalink: /teaching/martial-arts
+venue: "Vision Martial Arts, Martial Arts Club"
+date: 2017
+location: "San Jose & Merced, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Third degree Taekwondo black belt, been doing marital arts since 2011 and started teaching 2017.
+collaborated with board members to direct club and established martial arts as one of the top clubs at UC Merced
 
-Heading 1
+<!-- Patience
+====== 
+
+Confidence
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+Skill
+====== -->

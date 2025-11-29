@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Math and CSE Tutor"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Tutoring"
+permalink: /teaching/math-and-cse-tutoring
+venue: "STEM Tutoring Center at UC Merced"
+date: 2024-02
+location: "Merced, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Tutored students in calculus(1-3), vector calculus, differential equations, statistics, numerical analysis, linear algebra, discrete math, data structures and algorithms, machine learning, computer vision, object-oriented programming, web development, database and circuit theory improving their conceptual understanding and academic performance.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
