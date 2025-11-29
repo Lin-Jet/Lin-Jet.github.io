@@ -4,7 +4,7 @@ collection: teaching
 type: #""
 permalink: /teaching/martial-arts
 venue: "Vision Martial Arts, Martial Arts Club"
-date: 2017-01
+date: #2017-01
 location: "San Jose & Merced, CA"
 ---
 
