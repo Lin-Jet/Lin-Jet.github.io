@@ -13,17 +13,17 @@ title                    : "Jet Lin"
 title_separator          : "-"
 name                     : &name "Jet Lin"
 description              : &description "Jet's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://lin-jet.github.io/" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Lin-Jet/Lin-Jet.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/jetsquare.png"
+  avatar           : "jetsquare.png"
   name             : "Jet Lin"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "AI engineer applying for Computer Science Masters, with a focus on AI for Science and Education"
