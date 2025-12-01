@@ -12,3 +12,7 @@ Throughout my undergrad experience, I made music as a drummer, guitarist, and so
 With my personal projects, I made **4 albums** of various genres (metal [Black/Thrash/Death Metal](https://www.youtube.com/watch?v=Nkn5TMK94Hw), experimental [Experimental/Noise](https://www.youtube.com/watch?v=KFwnEPIzFwc), ambient [Ambient Project](https://youtu.be/XKuN2_M2U4M), electronic [Electronic Project](https://jetlin.bandcamp.com/album/tragic-inability-to-converse-in-a-cost-effective-manner)) and countless additional songs. My drive for songwriting is exploring music and finding underutilized ideas; my music is the culmination of those ideas presented. This parallels my work with AI for science.
 
 With pursuing my Computer Science Master's Degree, I will strengthen my research skills and gain a deeper understanding of the AI for Science field to find where more attention and proper AI integration can yield stronger results. I want to take my work of bringing the community to life at UC Merced to my future university and continue to *uplift students by constructing powerful AI systems that improve human capabilities*.
+
+Additional Music:
+1. [Youtube](https://www.youtube.com/watch?v=Nkn5TMK94Hw)
+2. [BandCamp](https://jetlin.bandcamp.com/)
