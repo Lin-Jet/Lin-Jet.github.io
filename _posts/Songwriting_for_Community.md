@@ -1,5 +1,5 @@
 ---
-title: 'Hidden Gems and Songwriting for Community'
+title: 'Songwriting, Hidden Gems, and Community'
 date: 2025-12-01
 permalink: /posts/music
 tags:
