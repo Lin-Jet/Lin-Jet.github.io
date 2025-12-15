@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Jet Lin
-**(669) 271-5455** | **jetlin101@gmail.com** | [LinkedIn](https://www.linkedin.com/in/jet-lin-565952238/) | [GitHub](https://github.com/Lin-Jet)
+**jetlin101@gmail.com** | [LinkedIn](https://www.linkedin.com/in/jet-lin-565952238/) | [GitHub](https://github.com/Lin-Jet)
 
 ---
 
