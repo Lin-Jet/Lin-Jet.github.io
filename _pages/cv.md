@@ -16,7 +16,7 @@ redirect_from:
 
 ## Summary
 
-* **Machine Learning Engineer** passionate about leveraging leadership, technical educational skills, and MLOps expertise to create impactful AI solutions.
+* **Artifical Intelligence/Machine Learning Scientist** passionate about leveraging leadership, technical educational skills, and MLOps expertise to create AI environments for scientific advancement.
 * Experienced in:
     * **(i)** Efficiently synthesizing large-scale instruction-tuning datasets for post-training.
     * **(ii)** Fine-tuning LLMs for medical domains, deployed in production-grade (currently utilized by **100+ doctors**).
@@ -29,8 +29,8 @@ redirect_from:
 **University of California, Merced** | Merced, CA
 * **Bachelor of Science in Computer Science and Engineering**
 * **GPA:** 3.7/4.0
+* *Aug 2021 to May 2025*
 * Dean's Honor List (2021 – 2024), Chancellor's List (2022 – 2024)
-* *Graduation: May 2025*
 
 ---
 
@@ -41,7 +41,7 @@ redirect_from:
 * **Large Language Models for Traditional Chinese Medicine (TCM)**
     * Developed data generation pipeline using LLM-based rephrasing (via Ollama), expanding the in-house dataset from **100K to 700K+ entries**.
     * Continue-pretrained and fine-tuned LLaMA and Qwen models with LoRA, delivering customized APIs now adopted by **100+ doctors** for daily clinical use.
-    * Established the first benchmark for TCM-focused LLMs, built a **30K+ evaluation set**, and integrated it into `lm-evaluation-harness`.
+    * Established the largest open-source benchmark for TCM-focused LLMs, built a **30K+ evaluation set**, integrated it into `lm-evaluation-harness`, and **evaluated 15+ models**.
 * **Weight and Biases (WandB) Mobile App**
     * Developed Swift mobile app to extend WandB for conveniently monitoring and managing LLM training experiments from a smartphone.
 * **Tongue Syndrome Diagnosis**
@@ -72,9 +72,9 @@ redirect_from:
 
 ### Executive Director | HackMerced VIII – X, *UC Merced*
 *September 2022 – May 2025*
-* Led **180-participant hackathon**, coordinated logistics, event promotion, and **secured $10,000 budget** from sponsors.
+* Led **180+ participant 36-hour 27 workshop hackathon**, coordinated logistics, event promotion, and **secured $10,000 budget** from sponsors.
 * Created and taught **6 workshops**, including one on pretraining a ChatGPT-style LLM deployed with Gradio, engaging **50+ workshop participants**.
-* Built event management web platform in React, helped implement live tracking for **600+ participant actions** in collaboration with GoBadger LLC.
+* Built event management web platform in React, helped implement live tracking for **600+ event actions** in collaboration with GoBadger LLC.
 
 ### President & Instructor | Martial Arts Club, *UC Merced*
 *November 2022 – April 2024*
@@ -96,6 +96,7 @@ redirect_from:
 * Computer Vision - CSE 185 (Grade: A)
 * Numerical Analysis - Math 131 (Grade: A)
 * Data Structures - CSE 100 (Grade: A)
+* Human-Computer Interaction - CSE 155 (Grade: A-)
 
 <!-- Education
 ======
