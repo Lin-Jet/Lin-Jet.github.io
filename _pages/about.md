@@ -8,8 +8,13 @@ redirect_from:
 ---
 
 ![LLMs and Doctors Comparison Radar Chart](../images/LLMvsDoctor.png)
+largest open-source TCM benchmark with ***30k+ questions*** evaluating ***15+ models*** against crowdsourced expert physician baselines.
 
+## Recent Work
 
+My most recent work in Awan AI involves creating a transformer-based model that predicts Traditional Chinese Medicine herb formulas based on symptoms and patient demographics. A complex multi-label classification problem with 1464 possible formulas.
+I processed 60,000+ clinical cases with 2,100 features and implemented a transformer-based model. The model achieved 98.8% per-label accuracy (Hamming Loss 0.0119) and captured 96% of correct herbs in its top-15 predictions.
+This model is wrapped in a Gradio web interface and is being verified by doctors.
 
 
 
